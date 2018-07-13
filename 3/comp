@@ -1,0 +1,4 @@
+#!/bin/bash
+
+g++ chap3.cc -o chap3.exe
+
